@@ -8,3 +8,4 @@ npm init in folder
 press enter a bunch then yes!
 
 refer to colin's code for index.js
+https://github.com/ColinLi33/akinator/blob/master/index.js
