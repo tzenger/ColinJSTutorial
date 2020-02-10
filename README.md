@@ -16,3 +16,9 @@ make .gitignore
 add node_modules/
 
 make public folder with index.html
+
+
+
+
+npm i (if you dont have dem node modules)
+npm i socket.io
